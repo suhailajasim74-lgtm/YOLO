@@ -1,0 +1,6 @@
+path: C:/Users/suhai/Desktop/YOLO
+train: train/images
+val: test/images
+
+nc: 5
+names: ['HELLO', 'NO', 'PLEASE', 'THANKS', 'YES']
